@@ -1,0 +1,5 @@
+langchain
+langchain-cohere
+python-dotenv
+faiss-cpu
+pypdf
